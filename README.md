@@ -41,7 +41,8 @@ A beginner-friendly blockchain-based Point-of-Sale system built using Solidity a
 
 ## 🚀 Live Version
 
-🔗 [Live Website](https://yourusername.github.io/web3-pos/) — *(link updates once deployed)*
+Live deployed on GitHub Pages
+🔗 [Live Website](https://ahmed6913.github.io/Blockchain-POS-frontend-/) — *(deployed)*
 
 ---
 
