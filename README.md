@@ -10,6 +10,7 @@ file structure
 ├── index.html         ← Your main UI
 ├── Screenshot.png     ← The screenshot you uploaded
 └── README.md          
+
 Backend is deployed on remix ide contains (Solidity (Remix IDE), Ethereum Testnet (e.g., Sepolia))
 
 # 🚀 Web3 POS Terminal
