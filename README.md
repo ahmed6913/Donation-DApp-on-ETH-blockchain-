@@ -42,7 +42,7 @@ A beginner-friendly blockchain-based Point-of-Sale system built using Solidity a
 
 ## 🚀 Live Version
 
-Live deployed on GitHub Pages
+Live deployed on GitHub Pages clink on the below link 👇🏻
 🔗 [Live Website](https://ahmed6913.github.io/Blockchain-POS-frontend-/) — *(deployed)*
 
 ---
