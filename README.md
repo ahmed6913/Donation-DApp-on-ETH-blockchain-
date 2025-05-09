@@ -2,7 +2,6 @@
 
 NOTION LINK overview of the  PROEJCT - https://www.notion.so/Blockchain-based-POS-system-1dc6368c9a0a809e8cf1c1afd8e67aed?pvs=4
 
-
 file structure 
 
 📁 POS frontend/
@@ -36,7 +35,7 @@ A beginner-friendly blockchain-based Point-of-Sale system built using Solidity a
 
 ## 📦 How to Use
 
-1. Clone the repo or download the ZIP  
+1. Clone the repo or download the ZIP file
 2. Replace `YOUR_CONTRACT_ADDRESS` in `script.js` with your deployed contract address  
 3. Open `index.html` in your browser with MetaMask connected
 
@@ -47,7 +46,7 @@ Live deployed on GitHub Pages clink on the below link 👇🏻
 
 ---
 
-## 📄 License
+## 📄 License 
 
 
 MIT
