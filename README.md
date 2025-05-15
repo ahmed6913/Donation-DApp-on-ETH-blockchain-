@@ -7,10 +7,10 @@ file structure
 📁 POS frontend/
 │
 ├── index.html         ← Your main UI
-├── Screenshot.png     ← The screenshot you uploaded
+├── Screenshot.png     ← The screenshot uploaded
 └── README.md          
 
-Backend is deployed on remix ide contains (Solidity (Remix IDE), Ethereum Testnet (e.g., Sepolia))
+Backend is deployed on remix ide contains (Solidity (Remix IDE), Ethereum Testnet (e.g. Sepolia))
 
 # 🚀 Web3 POS Terminal
 
