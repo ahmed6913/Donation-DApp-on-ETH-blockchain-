@@ -46,6 +46,9 @@ Live deployed on GitHub Pages clink on the below link 👇🏻
 
 ---
 
-## 📄 License 
 
-MIT
+## 📄 License
+
+This project is **not licensed for reuse**.  
+All rights reserved © 2025 [shaikh saim].  
+You may not copy, distribute, or modify any part of this project without explicit permission.
