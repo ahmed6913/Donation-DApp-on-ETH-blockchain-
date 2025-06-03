@@ -1,4 +1,4 @@
-# Blockchain-POS-frontend
+# Blockchain-ETH-payment
 
 NOTION LINK overview of the  PROEJCT - https://www.notion.so/Blockchain-based-POS-system-1dc6368c9a0a809e8cf1c1afd8e67aed?pvs=4
 
