@@ -1,8 +1,8 @@
 # Blockchain-ETH-payment
 
-NOTION LINK overview of the  PROEJCT - https://www.notion.so/Blockchain-based-POS-system-1dc6368c9a0a809e8cf1c1afd8e67aed?pvs=4
+NOTION LINK - https://www.notion.so/Blockchain-based-POS-system-1dc6368c9a0a809e8cf1c1afd8e67aed?pvs=4
 
-file structure 👇
+File structure 👇
 
 📁 POS frontend/
 │
@@ -21,7 +21,7 @@ A beginner-friendly blockchain-based Point-of-Sale system built using Solidity a
 ## 🔧 Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Web3 Interaction:** MetaMask, ethers.js
+- **Web3 Interaction:** MetaMask, Ethers.js
 - **Blockchain:** Solidity (Remix IDE), Ethereum Testnet (e.g., Sepolia)
 - **Hosting:** GitHub Pages
 
