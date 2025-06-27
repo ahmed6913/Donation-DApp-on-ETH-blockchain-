@@ -12,9 +12,11 @@ File structure 👇
 
 Backend is deployed on remix ide contains (Solidity (Remix IDE), Ethereum Testnet (e.g. Sepolia))
 
-# 🚀 Web3 POS Terminal
+### Donation-DApp-on-ETH-blockchain-
+Blockchain based donation app build on ETH blockchain network  
 
-A beginner-friendly blockchain-based Point-of-Sale system built using Solidity and deployed with a stylish, animated Web3 frontend.
+- Accepts only ETH for donation 
+- Only owner can withdraw funds 
 
 ![Web3 POS Screenshot](./Screenshot.png)
 
